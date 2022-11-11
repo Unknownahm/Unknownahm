@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unknownahm
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning TypeScript 
+- 👀 I’m interested in JavaScript and Go
+- 🌱 I’m currently learning Goplayground/#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
